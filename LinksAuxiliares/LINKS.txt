@@ -1,0 +1,25 @@
+https://www.youtube.com/watch?v=C4p7N9XFOrs 
+ 
+https://towardsdatascience.com/visualizing-decision-trees-in-jupyter-notebook-with-python-and-
+graphviz-78703230a7b1 
+ 
+https://www.springboard.com/blog/data-science/decision-tree-implementation-in-python/  
+
+https://randerson112358.medium.com/python-decision-tree-classifier-example-d73bc3aeca6
+ 
+https://www.youtube.com/watch?v=BDqejVlCfvc 
+
+https://github.com/ageron/handson-ml
+
+httpsimbalanced-learn.orgstablereferencesgeneratedimblearn.under_sampling.RandomUnderSampler.html
+
+httpsimbalanced-learn.orgstableunder_sampling.html
+
+httpspypi.orgprojectmissingpy
+
+Investigue o funcionamento do RandomUnderSampler: https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.RandomUnderSampler.html
+
+Investigue outros métodos para oversampling e undersampling em:
+https://imbalanced-learn.org/stable/under_sampling.html
+
+https://www.youtube.com/watch?v=E2M_yTulcmU
